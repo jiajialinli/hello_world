@@ -1,2 +1,3 @@
 # hello_world
-This is my first GitHub project
+这是我的第一个GitHub项目
+这是我的第一个分支
